@@ -3,3 +3,4 @@
 sim/sim
 *.wav
 *.mp4
+!media/*.mp4

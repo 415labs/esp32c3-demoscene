@@ -2,6 +2,10 @@
 
 A demo for the ESP32-C3 board with the 72×40 OLED. It runs 9 visual parts against a 128 BPM synth soundtrack that plays from **one GPIO pin**. Both the music and the visuals are generated in real time. Nothing is pre-rendered.
 
+![415 SIGNAL highlights](media/415-signal-teaser.gif)
+
+▶ **[Watch the full 2-minute preview with sound](media/415-signal-preview.mp4)** (11 MB MP4). It was rendered by `sim/sim.cpp` from the same code that runs on the chip, with the OLED look simulated.
+
 ## Wiring
 
 | What | Pin |
